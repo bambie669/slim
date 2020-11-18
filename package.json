@@ -15,6 +15,7 @@
   "author": "Radu Roman, Roxana Bolos",
   "license": "ISC",
   "devDependencies": {
+    "less": "^3.12.2",
     "nodemon": "^2.0.6"
   }
 }
